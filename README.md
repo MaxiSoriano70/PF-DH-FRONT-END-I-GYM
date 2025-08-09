@@ -27,7 +27,7 @@ Consiste en una página web frontend para una plataforma deportiva con secciones
 
 ## 🌐 Demo en línea
 
-[Ver proyecto en vivo](#)
+[Ver proyecto en vivo](https://front-end-sportitdh.netlify.app/)
 
 ---
 
